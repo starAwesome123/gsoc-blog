@@ -1,1 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>GSoC 2026 Blog | Space Navigation & Radiospectra</title>
+  <link>https://starAwesome123.github.io/gsoc-blog/</link>
+  <description>Official development blog for GSoC 2026 with Open Astronomy.</description>
+  <language>en-us</language>
 
+  <item>
+    <title>Initiating the GSoC 2026 Journey: Radiospectra Project</title>
+    <link>https://starAwesome123.github.io/gsoc-blog/</link>
+    <description>Exploring the SunPy radiospectra codebase and preparing a proposal for high-difficulty satellite data interoperability.</description>
+    <pubDate>Mon, 30 Mar 2026 09:00:00 GMT</pubDate>
+    <guid>https://starAwesome123.github.io/gsoc-blog/post1</guid>
+  </item>
+</channel>
+</rss>
