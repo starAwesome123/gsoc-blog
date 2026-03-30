@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>GSoC 2026 Blog - Space Navigation</title>
+  <link>https://starAwesome123.github.io/gsoc-blog/</link>
+  <description>Journey of a Space Navigation graduate in GSoC 2026</description>
+  <item>
+    <title>Applying to Open Astronomy: Radiospectra</title>
+    <link>https://starAwesome123.github.io/gsoc-blog/</link>
+    <description>Exploring the radiospectra codebase and preparing the GSoC proposal.</description>
+    <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>
